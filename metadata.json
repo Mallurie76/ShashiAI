@@ -1,0 +1,8 @@
+{
+  "name": "TerraCaloric — Population & Land-Use Model",
+  "description": "Quantitative agricultural land modeling tool that derives required cropland and pasture area from population data, caloric intake, dietary composition, food waste, and crop yields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
